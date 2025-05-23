@@ -1,4 +1,5 @@
-Description
+Description:
+
 Sugar Rush is a 2D candy-themed maze game where the player collects keys while avoiding enemies and traps to ultimately unlock and reach the Super Candy, ending the level. 
 Players navigate the maze using keyboard controls (WASD), picking up keys and optional coins while dodging patrolling bees and spike traps. Movement through the maze involves both exploration and timing, 
 with automatic key collection and dynamic gate unlocking once objectives are met.
