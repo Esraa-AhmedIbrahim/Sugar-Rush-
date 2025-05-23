@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: 7e4462015527e374492df94091b06d7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5929768069412938611
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_0
+  - first:
+      213: -1326550836671447962
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_1
+  - first:
+      213: -3887003289905544632
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_2
+  - first:
+      213: 2200346596222643559
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_3
+  - first:
+      213: 2240551059488769735
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_4
+  - first:
+      213: 569990386256540126
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_5
+  - first:
+      213: 2632971998076247193
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_6
+  - first:
+      213: 8352429269774413841
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_7
+  - first:
+      213: -6016484859479183075
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_8
+  - first:
+      213: 8407443016365416325
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_9
+  - first:
+      213: 7477368282215197266
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_10
+  - first:
+      213: 5124913427628752995
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_11
+  - first:
+      213: -2372306390198552343
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_12
+  - first:
+      213: 7500487699641115141
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_13
+  - first:
+      213: -5983384751163333252
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_14
+  - first:
+      213: -7551449600303148743
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_15
+  - first:
+      213: 1843591129306784493
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_16
+  - first:
+      213: 38172392858964486
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_17
+  - first:
+      213: -3968602121832643963
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_18
+  - first:
+      213: 8230060370434345808
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_19
+  - first:
+      213: 4878457844110258908
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_20
+  - first:
+      213: -5764279579522583386
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_21
+  - first:
+      213: 3368973942910879682
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_22
+  - first:
+      213: 5256275254456877939
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_23
+  - first:
+      213: 5320937309975016276
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_24
+  - first:
+      213: -8296630705322399016
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_25
+  - first:
+      213: -7752380313485831497
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_26
+  - first:
+      213: -2975657084099473271
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_27
+  - first:
+      213: 1938742914991283023
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_28
+  - first:
+      213: 3182004943808195869
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_29
+  - first:
+      213: -2533615333047836499
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_30
+  - first:
+      213: 254135502902646948
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_31
+  - first:
+      213: -2026896359374062848
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_32
+  - first:
+      213: 325901321865417927
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_33
+  - first:
+      213: -8143483177939589542
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_34
+  - first:
+      213: -8885428465856999076
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_35
+  - first:
+      213: -1585523726012453519
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_36
+  - first:
+      213: 2604988309218239181
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_37
+  - first:
+      213: 2550159605289485538
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_38
+  - first:
+      213: -1889301900982485850
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_39
+  - first:
+      213: 1602293354650339211
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_40
+  - first:
+      213: 6405253336584660251
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_41
+  - first:
+      213: 8129594935844412579
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_42
+  - first:
+      213: 5026639479289063770
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_43
+  - first:
+      213: -8588833958769865162
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_44
+  - first:
+      213: -6085229540343534002
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_45
+  - first:
+      213: 8796614327978391347
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_46
+  - first:
+      213: -1686894244447002702
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_47
+  - first:
+      213: 4455615427333331741
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_48
+  - first:
+      213: 5177750131066703917
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_49
+  - first:
+      213: -7143827073049186744
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_50
+  - first:
+      213: -5441136327758631415
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_51
+  - first:
+      213: 3090271397295716915
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_52
+  - first:
+      213: -5863825604116775121
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_53
+  - first:
+      213: -7980838311889764350
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_54
+  - first:
+      213: 7581247560527643862
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_55
+  - first:
+      213: -2446492020673669304
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_56
+  - first:
+      213: -4195448200247132592
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_57
+  - first:
+      213: 8205009958829527213
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_58
+  - first:
+      213: 9110643316372069664
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_59
+  - first:
+      213: -8349270529121020858
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_60
+  - first:
+      213: -4640684104692140880
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_61
+  - first:
+      213: 3830126194241701966
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_62
+  - first:
+      213: 7198124268969019651
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_63
+  - first:
+      213: -6223213253742571381
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_64
+  - first:
+      213: -1708432783651440356
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_65
+  - first:
+      213: 4521915254310165676
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_66
+  - first:
+      213: -3839032069729158352
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_67
+  - first:
+      213: -3420774913802271950
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_68
+  - first:
+      213: 6875200571116522012
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_69
+  - first:
+      213: -6867621324014762900
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_70
+  - first:
+      213: 6242304350930454631
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_71
+  - first:
+      213: -6014993012924644619
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_72
+  - first:
+      213: -6340466478238468593
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_73
+  - first:
+      213: -4458853370742672781
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_74
+  - first:
+      213: 414949336172137586
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_75
+  - first:
+      213: 4353747600319876463
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_76
+  - first:
+      213: -2748980272864366507
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_77
+  - first:
+      213: -8289502724389344813
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_78
+  - first:
+      213: 9124625284835259839
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_79
+  - first:
+      213: 6015743870284783479
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_80
+  - first:
+      213: 1609008338972849369
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_81
+  - first:
+      213: 8279483679757425309
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_82
+  - first:
+      213: -7820414116703760870
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_83
+  - first:
+      213: -6033285712866669684
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_84
+  - first:
+      213: 5333633429063522008
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_85
+  - first:
+      213: 3688845027640203099
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_86
+  - first:
+      213: -6549614631255719897
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_87
+  - first:
+      213: -3266138901375442141
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_88
+  - first:
+      213: 6198118142523788497
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_89
+  - first:
+      213: -161959826843809867
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_90
+  - first:
+      213: -196787964616179368
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_91
+  - first:
+      213: -5842044307747780007
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_92
+  - first:
+      213: -3014431943929575898
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_93
+  - first:
+      213: 2719538299889628155
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_94
+  - first:
+      213: -463700745509308958
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_95
+  - first:
+      213: -4662210745585498795
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_96
+  - first:
+      213: -4066206619157511851
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_97
+  - first:
+      213: 9140139224651308733
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_98
+  - first:
+      213: 924419833615230732
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_99
+  - first:
+      213: -4940299975103100835
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_100
+  - first:
+      213: 8021638371786333792
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_101
+  - first:
+      213: 3349722056836972408
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_102
+  - first:
+      213: 3788923682550424041
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_103
+  - first:
+      213: -8061607437218598012
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_104
+  - first:
+      213: -2901094980495702728
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_105
+  - first:
+      213: -7549309369560486182
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_106
+  - first:
+      213: 4167752070768613582
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_107
+  - first:
+      213: 1978703301324106895
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_108
+  - first:
+      213: -7145993096941108800
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_109
+  - first:
+      213: 2353705730068800941
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_110
+  - first:
+      213: -7286944688888119485
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_111
+  - first:
+      213: 6332805899738594173
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_112
+  - first:
+      213: -3130743592628441239
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_113
+  - first:
+      213: -3337910691376445463
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_114
+  - first:
+      213: 72948839240290019
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_115
+  - first:
+      213: -2864633142538058308
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_116
+  - first:
+      213: 2173289714874453582
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_117
+  - first:
+      213: 4477802332558006255
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_118
+  - first:
+      213: -7845540944716600198
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_119
+  - first:
+      213: 5399749380032434357
+    second: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 292
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3162
+        width: 202
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373efc154a4ca4250800000000000000
+      internalID: 5929768069412938611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3165
+        width: 190
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c73bbda05279de0800000000000000
+      internalID: -1326550836671447962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_2
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 3165
+        width: 194
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842c7602a179e0ac0800000000000000
+      internalID: -3887003289905544632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_3
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 3165
+        width: 196
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d27924293398e10800000000000000
+      internalID: 2200346596222643559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_4
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 3160
+        width: 246
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c604f15159081f10800000000000000
+      internalID: 2240551059488769735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_5
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 3160
+        width: 246
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed175328c3309e700800000000000000
+      internalID: 569990386256540126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_6
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3160
+        width: 185
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c92e805123a8420800000000000000
+      internalID: 2632971998076247193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_7
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 3160
+        width: 186
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110ba74fa2ac9e370800000000000000
+      internalID: 8352429269774413841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_8
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 3165
+        width: 246
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d113a32a5e6218ca0800000000000000
+      internalID: -6016484859479183075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_9
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 3299
+        width: 200
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f9ccbf0ec3da470800000000000000
+      internalID: 8407443016365416325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_10
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 3299
+        width: 179
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aa53cf5d2f4c760800000000000000
+      internalID: 7477368282215197266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_11
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 3294
+        width: 246
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36001760c995f1740800000000000000
+      internalID: 5124913427628752995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_12
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2769
+        width: 182
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e873d938efd31fd0800000000000000
+      internalID: -2372306390198552343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_13
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2769
+        width: 161
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502ab43d2d5171860800000000000000
+      internalID: 7500487699641115141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_14
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2768
+        width: 204
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75ab68254fb6fca0800000000000000
+      internalID: -5983384751163333252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_15
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2769
+        width: 201
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9315aaa099cd33790800000000000000
+      internalID: -7551449600303148743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_16
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2760
+        width: 312
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de264654d50c59910800000000000000
+      internalID: 1843591129306784493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_17
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 3050
+        width: 190
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602d59cc69d978000800000000000000
+      internalID: 38172392858964486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_18
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 3046
+        width: 182
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582cd419561bce8c0800000000000000
+      internalID: -3968602121832643963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_19
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 3047
+        width: 194
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b42cb5d4c073270800000000000000
+      internalID: 8230060370434345808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2769
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2f8e1ef83c3b340800000000000000
+      internalID: 4878457844110258908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_21
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 2772
+        width: 336
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4b48c434a2100b0800000000000000
+      internalID: -5764279579522583386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_22
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 2914
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c700c493fff0ce20800000000000000
+      internalID: 3368973942910879682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_23
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 2875
+        width: 32
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3730497be7a02f840800000000000000
+      internalID: 5256275254456877939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_24
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 2933
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453fe29ba44c7d940800000000000000
+      internalID: 5320937309975016276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_25
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 2821
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dae8a8b4527cdc80800000000000000
+      internalID: -8296630705322399016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_26
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 2697
+        width: 65
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b212f2cd230a6490800000000000000
+      internalID: -7752380313485831497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_27
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 2802
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98050e0d5a754b6d0800000000000000
+      internalID: -2975657084099473271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_28
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 2745
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b5cd6c86cc7ea10800000000000000
+      internalID: 1938742914991283023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_29
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 2692
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d693d23a0c82c20800000000000000
+      internalID: 3182004943808195869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_30
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 2692
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0633c374ac6dcd0800000000000000
+      internalID: -2533615333047836499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2305
+        width: 190
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8d357b4eed68300800000000000000
+      internalID: 254135502902646948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_32
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 2305
+        width: 194
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bf9f600840fd3e0800000000000000
+      internalID: -2026896359374062848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_33
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 2305
+        width: 196
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c45e998685d58400800000000000000
+      internalID: 325901321865417927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_34
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 2300
+        width: 246
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56aa8812398cfe80800000000000000
+      internalID: -8143483177939589542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_35
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 2300
+        width: 246
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51137723ed90b480800000000000000
+      internalID: -8885428465856999076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_36
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2300
+        width: 185
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17de21852961ff9e0800000000000000
+      internalID: -1585523726012453519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_37
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 2300
+        width: 186
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2affeb017c62420800000000000000
+      internalID: 2604988309218239181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_38
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 2305
+        width: 246
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e484d156acf36320800000000000000
+      internalID: 2550159605289485538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_39
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 2439
+        width: 200
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acf7765ee9d7c5e0800000000000000
+      internalID: -1889301900982485850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_40
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 2439
+        width: 179
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8707e5115d7c3610800000000000000
+      internalID: 1602293354650339211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_41
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 2434
+        width: 246
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15a38f19f704e850800000000000000
+      internalID: 6405253336584660251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_42
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1909
+        width: 182
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac12de858f12d070800000000000000
+      internalID: 8129594935844412579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_43
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1909
+        width: 161
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59aaf069f532c540800000000000000
+      internalID: 5026639479289063770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_44
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1908
+        width: 204
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ec5b425055ec880800000000000000
+      internalID: -8588833958769865162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_45
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1909
+        width: 201
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e2c1759fbec8ba0800000000000000
+      internalID: -6085229540343534002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_46
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1900
+        width: 312
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3377345ff1ad31a70800000000000000
+      internalID: 8796614327978391347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_47
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 2190
+        width: 190
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfd51a4f92f698e0800000000000000
+      internalID: -1686894244447002702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_48
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 2186
+        width: 182
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b14f1df9685dd30800000000000000
+      internalID: 4455615427333331741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_49
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 2187
+        width: 194
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2096f1bf401bd740800000000000000
+      internalID: 5177750131066703917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_50
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1909
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ea51e60270cdc90800000000000000
+      internalID: -7143827073049186744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_51
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1912
+        width: 336
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e297996533d74b0800000000000000
+      internalID: -5441136327758631415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_52
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 2054
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a7c5f7679d2ea20800000000000000
+      internalID: 3090271397295716915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_53
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 2015
+        width: 32
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f77c15ea18f9ea0800000000000000
+      internalID: -5863825604116775121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_54
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 2073
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2008bf1f6dd5e3190800000000000000
+      internalID: -7980838311889764350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_55
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 1961
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d40c873d70063960800000000000000
+      internalID: 7581247560527643862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_56
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 1837
+        width: 65
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8471be128705c0ed0800000000000000
+      internalID: -2446492020673669304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_57
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 1942
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eb7be1716c6c5c0800000000000000
+      internalID: -4195448200247132592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_58
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 1881
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da09396e51d0ed170800000000000000
+      internalID: 8205009958829527213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_59
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 1832
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dd4a373d18f6e70800000000000000
+      internalID: 9110643316372069664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_60
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 1832
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6449a1aa0be612c80800000000000000
+      internalID: -8349270529121020858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_61
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1441
+        width: 190
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4f509e46af89fb0800000000000000
+      internalID: -4640684104692140880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_62
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1441
+        width: 194
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4802b41b77572530800000000000000
+      internalID: 3830126194241701966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_63
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1441
+        width: 196
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3094405a2efd4e360800000000000000
+      internalID: 7198124268969019651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_64
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1436
+        width: 246
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80db298484b2a9a0800000000000000
+      internalID: -6223213253742571381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_65
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1436
+        width: 246
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19f2d75f6d6a48e0800000000000000
+      internalID: -1708432783651440356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_66
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1436
+        width: 185
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacd39537f111ce30800000000000000
+      internalID: 4521915254310165676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_67
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1436
+        width: 186
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bf5723ca409bac0800000000000000
+      internalID: -3839032069729158352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_68
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1441
+        width: 246
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2338f360757f680d0800000000000000
+      internalID: -3420774913802271950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_69
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 1575
+        width: 200
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a86f83e7e996f50800000000000000
+      internalID: 6875200571116522012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_70
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 1575
+        width: 179
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64c332cace41b0a0800000000000000
+      internalID: -6867621324014762900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_71
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 1570
+        width: 246
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768c519ebbe11a650800000000000000
+      internalID: 6242304350930454631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_72
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1045
+        width: 182
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f28b2a39b3768ca0800000000000000
+      internalID: -6014993012924644619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_73
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1045
+        width: 161
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06f25ec4532208a0800000000000000
+      internalID: -6340466478238468593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_74
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1044
+        width: 204
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372745bbb78fe12c0800000000000000
+      internalID: -4458853370742672781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_75
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1045
+        width: 201
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c0356093232c500800000000000000
+      internalID: 414949336172137586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_76
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1036
+        width: 312
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d86c6106e9b6c30800000000000000
+      internalID: 4353747600319876463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_77
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 1326
+        width: 190
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550fc5da109a9d9d0800000000000000
+      internalID: -2748980272864366507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_78
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1322
+        width: 182
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9e32c1135c5fc80800000000000000
+      internalID: -8289502724389344813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_79
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 1323
+        width: 194
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5372b2a5e21ae70800000000000000
+      internalID: 9124625284835259839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_80
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1045
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fde006d273c7350800000000000000
+      internalID: 6015743870284783479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_81
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1048
+        width: 336
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d43e153f88545610800000000000000
+      internalID: 1609008338972849369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_82
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 1190
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ad5974a82a6e270800000000000000
+      internalID: 8279483679757425309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_83
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 1151
+        width: 32
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e0c619bce487390800000000000000
+      internalID: -7820414116703760870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_84
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 1209
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b84202c96754ca0800000000000000
+      internalID: -6033285712866669684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_85
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 1097
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6da7d485fd40a40800000000000000
+      internalID: 5333633429063522008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_86
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 973
+        width: 65
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57d5ff1209613330800000000000000
+      internalID: 3688845027640203099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_87
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 1078
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7204d48b1381b15a0800000000000000
+      internalID: -6549614631255719897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_88
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 1032
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323ae6459f75ca2d0800000000000000
+      internalID: -3266138901375442141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_89
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 968
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcc8019c93240650800000000000000
+      internalID: 6198118142523788497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_90
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 968
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b74715456a90cdf0800000000000000
+      internalID: -161959826843809867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_91
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 569
+        width: 190
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8510bf8836ed44df0800000000000000
+      internalID: -196787964616179368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_92
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 569
+        width: 194
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ac99297a3eceea0800000000000000
+      internalID: -5842044307747780007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_93
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 569
+        width: 196
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626cc7e3e169a26d0800000000000000
+      internalID: -3014431943929575898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_94
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 564
+        width: 246
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3bdfdccadbdb520800000000000000
+      internalID: 2719538299889628155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_95
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 564
+        width: 246
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e575d5f0aa9099f0800000000000000
+      internalID: -463700745509308958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_96
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 564
+        width: 185
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5550e5147008c4fb0800000000000000
+      internalID: -4662210745585498795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_97
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 564
+        width: 186
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55146c1af9ee197c0800000000000000
+      internalID: -4066206619157511851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_98
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 569
+        width: 246
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe94f2c23c48de70800000000000000
+      internalID: 9140139224651308733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_99
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 703
+        width: 200
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0726fdd0f234dc00800000000000000
+      internalID: 924419833615230732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_100
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 703
+        width: 179
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58cb14f857807bb0800000000000000
+      internalID: -4940299975103100835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_101
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 698
+        width: 246
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e97f24995925f60800000000000000
+      internalID: 8021638371786333792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_102
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 173
+        width: 182
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ffe0e867a9c7e20800000000000000
+      internalID: 3349722056836972408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_103
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 173
+        width: 161
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1ab73c306f49430800000000000000
+      internalID: 3788923682550424041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_104
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 172
+        width: 204
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48330f18fba6f1090800000000000000
+      internalID: -8061607437218598012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_105
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 173
+        width: 201
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83582e36c7d3db7d0800000000000000
+      internalID: -2901094980495702728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_106
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 164
+        width: 312
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adea1d750277b3790800000000000000
+      internalID: -7549309369560486182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_107
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 454
+        width: 190
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8df0a3d64d6d930800000000000000
+      internalID: 4167752070768613582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_108
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 450
+        width: 182
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ce05f3b24c57b10800000000000000
+      internalID: 1978703301324106895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_109
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 451
+        width: 194
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c18e61b32554dc90800000000000000
+      internalID: -7145993096941108800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_110
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 173
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da56d8a14ea0aa020800000000000000
+      internalID: 2353705730068800941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_111
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 176
+        width: 336
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f77e0d9629fda90800000000000000
+      internalID: -7286944688888119485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_112
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 318
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bba65c965a2e750800000000000000
+      internalID: 6332805899738594173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_113
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 279
+        width: 32
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f2d863a4d5d84d0800000000000000
+      internalID: -3130743592628441239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_114
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 337
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7478449eb5da1d0800000000000000
+      internalID: -3337910691376445463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_115
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 225
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eec1b1359a230100800000000000000
+      internalID: 72948839240290019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_116
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 101
+        width: 65
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb545379557ce38d0800000000000000
+      internalID: -2864633142538058308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_117
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 206
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e0a192b73192e10800000000000000
+      internalID: 2173289714874453582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_118
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 151
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7198e3f79542e30800000000000000
+      internalID: 4477802332558006255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_119
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 96
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c6267041a0f1390800000000000000
+      internalID: -7845540944716600198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_120
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 96
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b018f8b373cfea40800000000000000
+      internalID: 5399749380032434357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_0: 5929768069412938611
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_1: -1326550836671447962
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_10: 7477368282215197266
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_100: -4940299975103100835
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_101: 8021638371786333792
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_102: 3349722056836972408
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_103: 3788923682550424041
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_104: -8061607437218598012
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_105: -2901094980495702728
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_106: -7549309369560486182
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_107: 4167752070768613582
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_108: 1978703301324106895
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_109: -7145993096941108800
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_11: 5124913427628752995
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_110: 2353705730068800941
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_111: -7286944688888119485
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_112: 6332805899738594173
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_113: -3130743592628441239
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_114: -3337910691376445463
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_115: 72948839240290019
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_116: -2864633142538058308
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_117: 2173289714874453582
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_118: 4477802332558006255
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_119: -7845540944716600198
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_12: -2372306390198552343
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_120: 5399749380032434357
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_13: 7500487699641115141
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_14: -5983384751163333252
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_15: -7551449600303148743
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_16: 1843591129306784493
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_17: 38172392858964486
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_18: -3968602121832643963
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_19: 8230060370434345808
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_2: -3887003289905544632
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_20: 4878457844110258908
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_21: -5764279579522583386
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_22: 3368973942910879682
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_23: 5256275254456877939
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_24: 5320937309975016276
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_25: -8296630705322399016
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_26: -7752380313485831497
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_27: -2975657084099473271
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_28: 1938742914991283023
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_29: 3182004943808195869
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_3: 2200346596222643559
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_30: -2533615333047836499
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_31: 254135502902646948
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_32: -2026896359374062848
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_33: 325901321865417927
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_34: -8143483177939589542
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_35: -8885428465856999076
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_36: -1585523726012453519
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_37: 2604988309218239181
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_38: 2550159605289485538
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_39: -1889301900982485850
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_4: 2240551059488769735
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_40: 1602293354650339211
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_41: 6405253336584660251
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_42: 8129594935844412579
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_43: 5026639479289063770
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_44: -8588833958769865162
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_45: -6085229540343534002
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_46: 8796614327978391347
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_47: -1686894244447002702
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_48: 4455615427333331741
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_49: 5177750131066703917
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_5: 569990386256540126
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_50: -7143827073049186744
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_51: -5441136327758631415
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_52: 3090271397295716915
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_53: -5863825604116775121
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_54: -7980838311889764350
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_55: 7581247560527643862
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_56: -2446492020673669304
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_57: -4195448200247132592
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_58: 8205009958829527213
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_59: 9110643316372069664
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_6: 2632971998076247193
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_60: -8349270529121020858
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_61: -4640684104692140880
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_62: 3830126194241701966
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_63: 7198124268969019651
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_64: -6223213253742571381
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_65: -1708432783651440356
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_66: 4521915254310165676
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_67: -3839032069729158352
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_68: -3420774913802271950
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_69: 6875200571116522012
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_7: 8352429269774413841
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_70: -6867621324014762900
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_71: 6242304350930454631
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_72: -6014993012924644619
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_73: -6340466478238468593
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_74: -4458853370742672781
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_75: 414949336172137586
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_76: 4353747600319876463
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_77: -2748980272864366507
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_78: -8289502724389344813
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_79: 9124625284835259839
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_8: -6016484859479183075
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_80: 6015743870284783479
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_81: 1609008338972849369
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_82: 8279483679757425309
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_83: -7820414116703760870
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_84: -6033285712866669684
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_85: 5333633429063522008
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_86: 3688845027640203099
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_87: -6549614631255719897
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_88: -3266138901375442141
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_89: 6198118142523788497
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_9: 8407443016365416325
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_90: -161959826843809867
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_91: -196787964616179368
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_92: -5842044307747780007
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_93: -3014431943929575898
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_94: 2719538299889628155
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_95: -463700745509308958
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_96: -4662210745585498795
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_97: -4066206619157511851
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_98: 9140139224651308733
+      Custom Edited - Mario Customs - Ptooie Paper Mario-Style Modern_99: 924419833615230732
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
