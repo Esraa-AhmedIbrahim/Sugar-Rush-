@@ -16,3 +16,12 @@ Goal:
 2.	Avoid bees, spike traps, wall spikes, and candy plants.
 3.	Once all keys are collected, reach the Super Candy to open the final door and finish the level.
 4.	Collect coins for bonus points.
+
+
+Design and Development by :
+Esraa Ahmed Ibrahim
+Hanin Ayman El Sayed
+Rahma Sha3ban Esmail
+Ali Khalid Mahmoud
+Mohamed Emad Mohamed
+Mostafa Saad
